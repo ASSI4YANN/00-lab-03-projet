@@ -1,4 +1,4 @@
-#  Dockerisation de l'application Student List de l'entreprise POZOS
+#  Dockerisation de l'application student_list de l'entreprise POZOS
 
 ## • Rôle des fichiers
 
