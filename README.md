@@ -6,8 +6,7 @@
 
 Permet de lancer l'ensemble de l'application :
 
-API
-Site Web
+API et Site Web
 
 ### Dockerfile
 
