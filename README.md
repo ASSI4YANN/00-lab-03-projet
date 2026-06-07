@@ -35,9 +35,11 @@ Flask API (student-list)
       v
 Docker Registry (images privées)
 
----
 
-# 4. Rôle des fichiers
+
+
+
+ #        4. Rôle des fichiers
 
 docker-compose.yml
 
