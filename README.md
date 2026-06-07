@@ -37,6 +37,7 @@ Docker Registry (images privées)
 
 ---
 
+
 ## 4. Rôle des fichiers
 
 ### docker-compose.yml
