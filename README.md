@@ -34,15 +34,3 @@ Flask API (student-list)
       |
       v
 Docker Registry (images privées)
-
-
-
-
-
-
-
-Code source de l'API Flask.
-
- index.php
-
-Page web utilisée par les utilisateurs.
