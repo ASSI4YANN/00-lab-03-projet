@@ -35,7 +35,7 @@ Flask API (student-list)
       v
 Docker Registry (images privées)
 
-
+---
 
 ## 4. Rôle des fichiers
 
