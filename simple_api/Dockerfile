@@ -27,4 +27,4 @@ VOLUME ["/data"]
 EXPOSE 5000
 
 # Commande de démarrage du conteneur
-CMD ["python", "student_age.py"]
+CMD ["python", "./student_age.py"]
