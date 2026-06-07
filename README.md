@@ -34,3 +34,5 @@ Flask API (student-list)
       |
       v
 Docker Registry (images privées)
+
+---
